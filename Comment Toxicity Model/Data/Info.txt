@@ -1,1 +1,2 @@
 The "train.csv" file is bigger than 25 MB so I can't upload it.
+The data set : https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge
